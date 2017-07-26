@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_global_scope_m2m">
+    <sys_global_scope_m2m action="INSERT_OR_UPDATE">
+        <metadata display_value="ArrayUtil">f3c130709f02210054679ff3367fcf56</metadata>
+        <scope display_value="Scratch">31fd94c047100300ee1919fbac9a7182</scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-26 14:55:03</sys_created_on>
+        <sys_id>8a41a44047100300ee1919fbac9a7137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-26 14:55:03</sys_updated_on>
+    </sys_global_scope_m2m>
+</record_update>
